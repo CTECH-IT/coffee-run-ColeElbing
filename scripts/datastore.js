@@ -1,7 +1,7 @@
 (function(window){
     'use strict';
 
-    let App = window.APP || {};
+    let App = window.App || {};
 
     function DataStore() {
         this.data = {};
